@@ -1,9 +1,9 @@
 # ANA_Project
 ## Required installations:
 1)	conda create --name <name_of_env> python=3.5
-	conda create --name tf 
-	conda activate <name>
-	conda install -c anaconda pyqt
+	<br>conda create --name tf 
+	<br>conda activate <name>
+	<br>conda install -c anaconda pyqt
 2)  Download Qt Creator
 3)	pip install scikit-image
 	pip install opencv-python
