@@ -12,7 +12,7 @@
 math, sys, imutils, numpy, matplotlib
 
 ## Input images:
-The images required for upload are present in the “input_images” folder.
+The images required for upload are present in the “Input images” folder.
 <br>**Lenna_512.png:** Used for Image negative, Log Transformation, Gamma Transformation, Histogram Equalization, DFT, Image Reconstruction using IFFT, Histogram Shaping.
 <br>**lenna_noise.jpg:** Used for median filter.
 <br>**monalisa_noise.png:** Used for mean filter.
