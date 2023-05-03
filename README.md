@@ -22,4 +22,4 @@ The images required for upload are present in the “input_images” folder.
 
 ## Execution Commands:
 Clone the project repository and execute the following command:
-python transformation.py
+**python transformation.py**
