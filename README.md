@@ -13,12 +13,12 @@ math, sys, imutils, numpy, matplotlib
 
 ## Input images:
 The images required for upload are present in the “input_images” folder.
-Lenna_512.png: Used for Image negative, Log Transformation, Gamma Transformation, Histogram Equalization, DFT, Image Reconstruction using IFFT, Histogram Shaping.
-lenna_noise.jpg: Used for median filter.
-monalisa_noise.png: Used for mean filter.
-Cameraman_512.jpg: Used for Low pass, High pass, Band pass, Unsharp masking filters.
-cameraman_256.jpg: Used for Laplacian Filter.
-lenna_Interpolation.jpg (256X256): Used for Bilinear and Bicubic Interpolation.
+### Lenna_512.png: Used for Image negative, Log Transformation, Gamma Transformation, Histogram Equalization, DFT, Image Reconstruction using IFFT, Histogram Shaping.
+### lenna_noise.jpg: Used for median filter.
+### monalisa_noise.png: Used for mean filter.
+### Cameraman_512.jpg: Used for Low pass, High pass, Band pass, Unsharp masking filters.
+### cameraman_256.jpg: Used for Laplacian Filter.
+### lenna_Interpolation.jpg (256X256): Used for Bilinear and Bicubic Interpolation.
 
 ## Execution Commands:
 Clone the project repository and execute the following command:
