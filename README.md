@@ -1,7 +1,7 @@
 ## Cloning the Repository
 `git clone {project_url}`
 
-## Requirements for setting up the environment
+## Requirements for setting up the environment for Mac
 1) python 3.5 or higher
 2) pip install PyQt5
 3) pip install numpy
@@ -9,11 +9,20 @@
 5) pip install imutils
 6) pip install matplotlib
 7) pip install scikit-image
+
+## Requirements for setting up the environment for Windows
+1) python 3.5 or higher
+2) py -m pip install PyQt5
+3) py -m pip install numpy
+4) py -m pip install ovencv-python
+5) py -m pip install imutils
+6) py -m pip install matplotlib
+7) py -m pip install scikit-image
 	
 
 ## Executing the Project
 
-1. python transformation.py
+1. python transformation.py (Windows command : py transformation.py)
 <br>![image](https://user-images.githubusercontent.com/60146983/236318113-0cae4c35-a7af-4f9d-ab61-5f3ceb10533c.png)
 2. Click on the Upload button to Upload an image from the **input images** folder. The uploaded image appears on the image placeholder on the left.
 3. Select an alorithm (displayed as radio buttons) to get the output.
