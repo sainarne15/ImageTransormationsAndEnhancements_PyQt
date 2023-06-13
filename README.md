@@ -1,5 +1,14 @@
-## Cloning the Repository
-`git clone {project_url}`
+### Digital Image Processing (Image transformations and Enhancements)
+
+## Requirements for setting up the environment for Windows
+1) **python 3.5 or higher**
+2) py -m pip install **PyQt5**
+3) py -m pip install **numpy**
+4) py -m pip install **ovencv-python**
+5) py -m pip install **imutils**
+6) py -m pip install **matplotlib**
+7) py -m pip install **scikit-image**
+
 
 ## Requirements for setting up the environment for Mac
 1) python 3.5 or higher
@@ -10,14 +19,7 @@
 6) pip install matplotlib
 7) pip install scikit-image
 
-## Requirements for setting up the environment for Windows
-1) python 3.5 or higher
-2) py -m pip install PyQt5
-3) py -m pip install numpy
-4) py -m pip install ovencv-python
-5) py -m pip install imutils
-6) py -m pip install matplotlib
-7) py -m pip install scikit-image
+
 	
 
 ## Executing the Project
